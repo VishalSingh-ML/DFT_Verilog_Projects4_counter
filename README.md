@@ -35,7 +35,7 @@
 ## 📸 Output Snapshots
 
 - https://github.com/VishalSingh-ML/DFT_Verilog_Projects4_counter/tree/main/RTL: RTL Schematic from Quartus RTL Viewer  
-- [`counter.v.png`](Output/counter.v.png): Compilation Success Screenshot
+- https://github.com/VishalSingh-ML/DFT_Verilog_Projects4_counter/tree/main/output: Compilation Success Screenshot
 
 ---
 
